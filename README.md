@@ -40,5 +40,5 @@ from games to the logic behind the PYTHON syntax.
 
 # To donwload this repository, follow the link above
 
-[Python library] (https://drive.google.com/drive/folders/1Dm-ZNJIFmT86Owhy7DzPBTBp5v6c9IEu?usp=sharing)
+[ Python library ] : https://drive.google.com/drive/folders/1Dm-ZNJIFmT86Owhy7DzPBTBp5v6c9IEu?usp=sharing
 
