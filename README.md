@@ -38,8 +38,7 @@ from games to the logic behind the PYTHON syntax.
 15. Rudolph Russell - Machine Learning  - Guía Paso a Paso Para Implementar Algoritmos De Machine Learning Con Python (2018)
 
 
-
-#To donwload this repository, follow the link above
+# To donwload this repository, follow the link above
 
 [Python library] (https://drive.google.com/drive/folders/1Dm-ZNJIFmT86Owhy7DzPBTBp5v6c9IEu?usp=sharing)
 
